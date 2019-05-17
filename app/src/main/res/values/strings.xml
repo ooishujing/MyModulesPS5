@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Modules PS5</string>
+    <string name="android">C346 Android Programming</string>
+    <string name="ipad">C349 iPad Programming</string>
+    <string name="code">Module Code: C346</string>
+    <string name="name">Module Name: Android Programming</string>
+    <string name="year">Academic Year: 2018</string>
+    <string name="semester">Semester: 1</string>
+    <string name="credit">Module Credit: 4</string>
+    <string name="venue">Venue: W66M</string>
+</resources>
